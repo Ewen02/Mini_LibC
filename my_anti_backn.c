@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2020
 ** Mini_LibC
 ** File description:
-** my_getnbr
+** my_anti_backn, remplace '\n' to '\0'
 */
 
 #include "include/my_src.h"
