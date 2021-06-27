@@ -7,6 +7,7 @@
 
 <a name="top"></a>
 
+    - my_printf : possibility to use %s, %d, %t and %c of the printf function
     - my_put_nbr.c : display a number from a string given as parameter.
     - my_putstr.c : display string from a string given as parameter.
     - my_strlen.c : return lenght of a given string parameter.
