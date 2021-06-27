@@ -40,3 +40,4 @@ int my_strlentab(char **tab);
 int my_strncmp(char *s1, char *s2, int n);
 char *my_strncpy(char *dest, char *src, int n);
 int my_put_nbr(int nb);
+int isnum(char *str);
