@@ -43,3 +43,4 @@ int my_put_nbr(int nb);
 int isnum(char *str);
 int reverse_nb(char *nb);
 int revnb(int nb);
+char *anti_backn_string(char *str);
